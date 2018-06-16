@@ -1,0 +1,4 @@
+[autorun]
+ ;Open=PicArchive.exe
+ ShellExecute=PicArchive.exe
+ UseAutoPlay=1
